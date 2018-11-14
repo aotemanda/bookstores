@@ -1,6 +1,7 @@
 from django.shortcuts import render,redirect,reverse
 from utils.decorators import login_required
 import re
+from django.core.paginator import Paginator
 # Create your views here.
 def register(request):
     return render(request,'users/register.html')
@@ -72,4 +73,68 @@ def user(request):
         'books_li':books_li
     }
     return render(request,'users/user_center_info.html',context)
+@login_required
+def address(request):
+    passport_id = request.session.get('passport_id')
+    if request.method == 'GET':
+        addr = Address.objects.get_default_address(passport_id=passport_id)
+        return render(request,'user/user_center_site.html',{'addr':addr,'page':'address'})
+    else:
+        recipient_name = request.POST.get('username')
+        recipient_addr = request.POST.get('addr')
+        zip_code = request.POST.get('zip_code')
+        recipient_phone = request.POST.get('phone')
+        if not all([recipient_name,recipient_addr,recipient_phone,zip_code]):
+            return render(request,'users/user_center_site.html',{'errmsg':'参数不能为空!'})
+        Address.objects.add_one_address(passport_id=passport_id,
+                                        recipient_name=recipient_name,
+                                        recipient_addr=recipient_addr,
+                                        recipient_phone=recipient_phone,
+                                        zip_code=zip_code)
+        return redirect(reverse('user:address'))
+@login_required
+def order(request, page):
+    passport_id = request.session.get('passport_id')
 
+    order_li = OrderInfo.objects.filter(passport_id=passport_id)
+
+    for order in order_li:
+        order_id = order.order_id
+        order_books_li = OrderGoods.objects.filter(order_id=order_id)
+
+        for order_books in order_books_li:
+            count = order_books.count
+            price = order_books.price
+            amount = count * price
+            order_books.amount = amount
+
+        order.order_books_li = order_books_li
+    
+    paginator = Paginator(order_li, 3)      # 每页显示3个订单
+    
+    num_pages = paginator.num_pages
+    
+    if not page:        # 首次进入时默认进入第一页
+        page = 1
+    if page == '' or int(page) > num_pages:
+        page = 1
+    else:
+        page = int(page)
+        
+    order_li = paginator.page(page)
+    
+    if num_pages < 5:
+        pages = range(1, num_pages + 1)
+    elif page <= 3:
+        pages = range(1, 6)
+    elif num_pages - page <= 2:
+        pages = range(num_pages - 4, num_pages + 1)
+    else:
+        pages = range(page - 2, page + 3)
+
+    context = {
+        'order_li': order_li,
+        'pages': pages,
+    }
+
+    return render(request, 'users/user_center_order.html', context)

@@ -47,7 +47,7 @@
 			<h3 class="fl" id="model01">Python</h3>
 			<div class="subtitle fl">
 				<span>|</span>
-				{%for book in pyhton_new%}
+				{% for book in python_new %}
                     <a href="#">{{book.name}}</a>
                 {%endfor%}
             </div>
@@ -55,7 +55,7 @@
 		</div>
 
 		<div class="book_con clearfix">
-			<div class="book_banner fl"><img src="images/banner01.jpg"></div>
+			<div class="book_banner fl"><img src="{% static 'images/banner01.jpg' %}"></div>
 			<ul class="book_list fl">
             {% for book in python_hot %}
 				<li>
@@ -108,7 +108,7 @@
 		</div>
 
 		<div class="book_con clearfix">
-			<div class="book_banner fl"><img src="images/banner03.jpg"></div>
+			<div class="book_banner fl"><img src="{% static 'images/banner03.jpg' %}"></div>
 			<ul class="book_list fl">
                 {% for book in algorithms_hot %}
 				<li>
@@ -186,7 +186,7 @@
 		</div>
 
 		<div class="book_con clearfix">
-			<div class="book_banner fl"><img src="images/banner06.jpg"></div>
+			<div class="book_banner fl"><img src="{% static 'images/banner06.jpg' %}"></div>
 			<ul class="book_list fl">
                 {% for book in database_hot %}
 				<li>
