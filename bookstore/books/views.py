@@ -1,12 +1,17 @@
 from django.shortcuts import render
-
+import logging
 # Create your views here.
 from books.models import Books
 from books.enums import *
 from django.core.urlresolvers import reverse
 from django.core.paginator import Paginator
+from django.views.decorators.cache import cache_page
+from django_redis import get_redis_connection
 
+logger = logging.getLogger('django.request')
+#@cache_page(60*15)
 def index(request):
+    logger.info(request.body)
     python_new=Books.objects.get_books_by_type(PYTHON,limit=3,sort='new')
     python_hot=Books.objects.get_books_by_type(PYTHON,limit=4,sort='hot')
     javascript_new=Books.objects.get_books_by_type(JAVASCRIPT,limit=3,sort='new')
@@ -40,8 +45,13 @@ def detail(request,books_id):
     if books is None:
         return redirect(reverse('books:index'))
     books_li=Books.objects.get_books_by_type(type_id=books.type_id,limit=2,sort='new')
-    type_title=BOOKS_TYPE[books.type_id]
-    context={'books':books,'books_li':books_li,'type_title':type_title}
+    if request.session.has_key('islogin'):
+        con = get_redis_connection('default')
+        key = 'history_%d' % request.session.get('passport_id')
+        con.lrem(key, 0, books.id)
+        con.lpush(key, books.id)
+        con.ltrim(key, 0, 4)
+    context={'books':books,'books_li':books_li}
     return render(request,'books/detail.html',context)
 
 def list(request,type_id,page):

@@ -1,5 +1,5 @@
 from django.db import models
-
+from django.core.files.storage import FileSystemStorage
 # Create your models here.
 from django.shortcuts import render
 from db.base_model import BaseModel
@@ -25,7 +25,9 @@ class BooksManager(models.Manager):
         except self.model.DoesNotExist:
             books=None
         return books
+fs = FileSystemStorage(location='/root/bookstore/bookstore/collect_static')
 class Books(BaseModel):
+    image = models.ImageField(storage=fs, upload_to='books', verbose_name='商品图片')
     books_type_choices=((k,v)for k,v in BOOKS_TYPE.items())
     status_choices=((k,v)for k,v in STATUS_CHOICE.items())
     type_id=models.SmallIntegerField(default=PYTHON,choices=books_type_choices,verbose_name='商品种类')

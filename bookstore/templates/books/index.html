@@ -7,7 +7,7 @@
 		<div class="navbar">
 			<h1 class="fl">全部商品分类</h1>
 			<ul class="navlist fl">
-				<li><a href="">首页</a></li>
+				<li><a href="{% url 'books:index' %}">首页</a></li>
 				<li class="interval">|</li>
 				<li><a href="">移动端书城</a></li>
 				<li class="interval">|</li>
@@ -48,7 +48,7 @@
 			<div class="subtitle fl">
 				<span>|</span>
 				{% for book in python_new %}
-                    <a href="#">{{book.name}}</a>
+                    <a href="{% url 'books:detail' books_id=book.id %}">{{book.name}}</a>
                 {%endfor%}
             </div>
             <a href='{% url "books:list" type_id=1 page=1 %}' class="book_more fr">查看更多 ></a>
@@ -59,8 +59,8 @@
 			<ul class="book_list fl">
             {% for book in python_hot %}
 				<li>
-					<h4><a href="#">{{ book.name }}</a></h4>
-					<a href="#"><img src="{% static book.image %}"></a>
+					<h4><a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a></h4>
+					<a href="{% url 'books:detail' books_id=book.id %}"><img src="{% static book.image %}"></a>
 					<div class="prize">¥ {{ book.price }}</div>
 				</li>
             {% endfor %}
@@ -74,10 +74,10 @@
 			<div class="subtitle fl">
 				<span>|</span>
                 {% for book in javascript_new %}
-				<a href="#">{{ book.name }}</a>
+				<a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a>
                 {% endfor %}
 			</div>
-			<a href="{% url "books:list" type_id=1 page=1 %}" class="book_more fr">查看更多 ></a>
+			<a href="{% url "books:list" type_id=2 page=1 %}" class="book_more fr">查看更多 ></a>
 		</div>
 
 		<div class="book_con clearfix">
@@ -85,8 +85,8 @@
 			<ul class="book_list fl">
                 {% for book in javascript_hot %}
 				<li>
-					<h4><a href="#">{{ book.name }}</a></h4>
-					<a href="#"><img src="{% static book.image %}"></a>
+					<h4><a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a></h4>
+					<a href="{% url 'books:detail' books_id=book.id %}"><img src="{% static book.image %}"></a>
 					<div class="prize">¥ {{ book.price }}</div>
 				</li>
                 {% endfor %}
@@ -100,11 +100,11 @@
 			<div class="subtitle fl">
 				<span>|</span>
                 {% for book in algorithms_new %}
-				<a href="#">{{ book.name }}</a>
+				<a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a>
                 {% endfor %}
 
 			</div>
-			<a href="{% url "books:list" type_id=1 page=1 %}" class="book_more fr">查看更多 ></a>
+			<a href="{% url "books:list" type_id=3 page=1 %}" class="book_more fr">查看更多 ></a>
 		</div>
 
 		<div class="book_con clearfix">
@@ -112,8 +112,8 @@
 			<ul class="book_list fl">
                 {% for book in algorithms_hot %}
 				<li>
-					<h4><a href="#">{{ book.name }}</a></h4>
-					<a href="#"><img src="{% static book.iamge"></a>
+					<h4><a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a></h4>
+					<a href="{% url 'books:detail' books_id=book.id %}"><img src="{% static book.image %}"></a>
 					<div class="prize">¥ {{ book.price }}</div>
 				</li>
                 {% endfor %}
@@ -127,10 +127,10 @@
 			<div class="subtitle fl">
 				<span>|</span>
                 {% for book in machinelearning_new %}
-				<a href="#">{{ book.name }}</a>
+				<a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a>
                 {% endfor %}
 			</div>
-			<a href="{% url "books:list" type_id=1 page=1 %}" class="book_more fr">查看更多 ></a>
+			<a href="{% url "books:list" type_id=4 page=1 %}" class="book_more fr">查看更多 ></a>
 		</div>
 
 		<div class="book_con clearfix">
@@ -138,8 +138,8 @@
 			<ul class="book_list fl">
                 {% for book in machinelearning_hot %}
 				<li>
-					<h4><a href="#">{{ book.name }}</a></h4>
-					<a href="#"><img src="{% static book.image %}"></a>
+					<h4><a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a></h4>
+					<a href="{% url 'books:detail' books_id=book.id %}"><img src="{% static book.image %}"></a>
 					<div class="prize">¥ {{ book.price}}</div>
 				</li>
                 {% endfor %}
@@ -153,10 +153,10 @@
 			<div class="subtitle fl">
 				<span>|</span>
                 {% for book in operatingsystem_new %}
-				<a href="#">{{ book.name }}</a>
+				<a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a>
                 {% endfor %}
 			</div>
-			<a href="{% url "books:list" type_id=1 page=1 %}" class="book_more fr">查看更多 ></a>
+			<a href="{% url "books:list" type_id=5 page=1 %}" class="book_more fr">查看更多 ></a>
 		</div>
 
 		<div class="book_con clearfix">
@@ -164,8 +164,8 @@
 			<ul class="book_list fl">
                 {% for book in operatingsystem_hot %}
 				<li>
-					<h4><a href="#">{{ book.name }}</a></h4>
-					<a href="#"><img src="{% static book.image %}"></a>
+					<h4><a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a></h4>
+					<a href="{% url 'books:detail' books_id=book.id %}"><img src="{% static book.image %}"></a>
 					<div class="prize">¥ {{ book.price }}</div>
 				</li>
                 {% endfor %}
@@ -179,10 +179,10 @@
 			<div class="subtitle fl">
 				<span>|</span>
                 {% for book in database_new %}
-				<a href="#">{{ book.name }}</a>
+				<a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a>
                 {% endfor %}
 			</div>
-			<a href="{% url "books:list" type_id=1 page=1 %}" class="book_more fr">查看更多 ></a>
+			<a href="{% url "books:list" type_id=6 page=1 %}" class="book_more fr">查看更多 ></a>
 		</div>
 
 		<div class="book_con clearfix">
@@ -190,8 +190,8 @@
 			<ul class="book_list fl">
                 {% for book in database_hot %}
 				<li>
-					<h4><a href="#">{{ book.name }}</a></h4>
-					<a href="#"><img src="{% static book.image %}"></a>
+					<h4><a href="{% url 'books:detail' books_id=book.id %}">{{ book.name }}</a></h4>
+					<a href="{% url 'books:detail' books_id=book.id %}"><img src="{% static book.image %}"></a>
 					<div class="prize">¥ {{ book.price }}</div>
 				</li>
                 {% endfor %}

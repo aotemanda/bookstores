@@ -3,29 +3,27 @@
 {% block title %}书城－详情页{% endblock %}
 {% block topfiles %}
 <script type='text/javascript'>
-$('#add_cart').click(funtion(){
-    var books_id=$(this).attr('books_id');
-    var books_count=$('.num_show').val();
-    var csrf=$('input[name='csrfmiddlewaretoken']').val();
-    var params={
-        'books_id':books_id,
-        'books_count':books_count,
-        'csrfmiddlewaretoken':csrf
-    }
-    $.post('/cart/add/',params,function(data){
-        if (data.res == 5){
-            var count=$('#show_count').html();
-            var count=parseInt(count)+paresInt(books_count);
-            $('#show_count').html(count);
-        }else{
-            alert(data.errmsg)
-        }
-    })
-})
-</script>                       
-<script>
 $(function(){
     update_total_price()
+    $('#add_cart').click(function(){
+        var books_id=$(this).attr('books_id');
+        var books_count=$('.num_show').val();
+        var csrf=$('input[name="csrfmiddlewaretoken"]').val();
+        var params={
+            'books_id':books_id,
+            'books_count':books_count,
+            'csrfmiddlewaretoken':csrf
+        }
+        $.post('/cart/add/',params,function(data){
+            if (data.res == 5){
+                var count=$('#show_count').html();
+                var count=parseInt(count)+parseInt(books_count);
+                $('#show_count').html(count);
+            }else{
+                alert(data.errmsg)
+            }
+        })
+    })
     function update_total_price(){
         books_price=$('.show_pirze').children('em').text()
         books_count=$('.num_show').val()
@@ -59,7 +57,7 @@ $(function(){
     })
 })
 </script>                                          
-{% endblock}
+{% endblock %}
 {% block body %}
 <div class="navbar_con">
 		<div class="navbar clearfix">
@@ -67,16 +65,16 @@ $(function(){
 				<h1>全部商品分类</h1>	
 				<span></span>			
 				<ul class="subnav">
-					<li><a href="#" class="python">Python</a></li>
-					<li><a href="#" class="javascript">Javascript</a></li>
-					<li><a href="#" class="algorithms">数据结构与算法</a></li>
-					<li><a href="#" class="machinelearning">机器学习</a></li>
-					<li><a href="#" class="operatingsystem">操作系统</a></li>
-					<li><a href="#" class="database">数据库</a></li>
+                    <li><a href="#" class="python">Python</a></li>
+                    <li><a href="#" class="javascript">Javascript</a></li>
+                    <li><a href="#" class="algorithms">数据结构与算法</a></li>
+                    <li><a href="#" class="machinelearning">机器学习</a></li>
+                    <li><a href="#" class="operatingsystem">操作系统</a></li>
+                    <li><a href="#" class="database">数据库</a></li>
 				</ul>
 			</div>
 			<ul class="navlist fl">
-				<li><a href="">首页</a></li>
+				<li><a href="{% url 'books:index'%}">首页</a></li>
 				<li class="interval">|</li>
 				<li><a href="">移动端书城</a></li>
 				<li class="interval">|</li>
@@ -88,13 +86,13 @@ $(function(){
 	<div class="breadcrumb">
 		<a href="#">全部分类</a>
 		<span>></span>
-		<a href="#">Python</a>
+		<a href="#">{{type_title}}</a>
 		<span>></span>
 		<a href="#">商品详情</a>
 	</div>
 
 	<div class="book_detail_con clearfix">
-		<div class="book_detail_pic fl"><img src="{%static 'images/book_detail.jpg' %}"></div>
+		<div class="book_detail_pic fl"><img src="{% static books.image %}"></div>
 
 		<div class="book_detail_list fr">
 			<h3>{{ books.name }}</h3>

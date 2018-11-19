@@ -1,8 +1,11 @@
 {% extends 'base.html'%}
 {% load staticfiles %}
-{% block title %}书城－提交订单{% endblock}
-{% block topfiles %}{% endblock}
+{% block title %}书城－提交订单{% endblock %}
+{% block topfiles %}
+
+{% endblock %}
 {% block body %}
+    {% csrf_token %}
 	<h3 class="common_title">确认收货地址</h3>
 
 	<div class="common_list_con clearfix">
@@ -10,7 +13,7 @@
 			<dt>寄送到：</dt>
 			<dd><input type="radio" name="addr_id" value='{{ addr.id}}' checked="">{{ addr.recipient_addr }}</dd>
 		</dl>
-		<a href="user_center_site.html" class="edit_site">编辑收货地址</a>
+		<a href="{% url 'user:address'%}" class="edit_site">编辑收货地址</a>
 
 	</div>
 	
@@ -43,7 +46,7 @@
 			<li class="col01">{{ forloop.counter }}</li>			
 			<li class="col02"><img src="{% static book.image %}"></li>
 			<li class="col03">{{ book.name }}</li>
-			<li class="col04">{{ book.unti }}</li>
+			<li class="col04">{{ book.unit }}</li>
 			<li class="col05">{{ book.price }}元</li>
 			<li class="col06">{{ book.count }}</li>
 			<li class="col07">{{ book.amount }}元</li>	
@@ -62,7 +65,7 @@
 	</div>
 
 	<div class="order_submit clearfix">
-		<a href="javascript:;" id="order_btn" books_id='{{ books_ids }}'>提交订单</a>
+		<a href="javascript:;" id="order_btn" books_ids='{{ books_ids }}'>提交订单</a>
 	</div>	
 {% endblock %}
 {% block bottom %}
@@ -74,3 +77,37 @@
 		<div class="mask"></div>
 	</div>
 {% endblock %}
+{% block bottomfiles %}
+     <script type="text/javascript">
+         $('#order_btn').click(function() {
+             var addr_id = $('input[name="addr_id"]').val()
+             var pay_method = $('input[name="pay_style"]:checked').val()
+             var books_ids = $(this).attr('books_ids')
+             var csrf = $('input[name="csrfmiddlewaretoken"]').val()
+             var params = {
+                 'addr_id': addr_id,
+                 'pay_method': pay_method,
+                 'books_ids': books_ids,
+                 'csrfmiddlewaretoken': csrf
+             }
+            
+             $.post('/order/commit/', params, function (data) {
+                 if (data.res == 6){
+                     $('.popup_con').fadeIn('fast', function() {
+                         setTimeout(function(){
+                             $('.popup_con').fadeOut('fast',function(){
+                                 window.location.href = '/user/order/';
+                             });
+                         },3000)
+ 
+                     });
+                 }
+                 else {
+                     alert(data.errmsg)
+                 }
+             })
+ 
+         });
+     </script>
+ {% endblock bottomfiles %}
+

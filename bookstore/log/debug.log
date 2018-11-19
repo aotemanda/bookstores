@@ -1,0 +1,3140 @@
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 3953
+INFO "GET /books/4/ HTTP/1.1" 200 7903
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/down.png HTTP/1.1" 200 1064
+INFO "GET /user/login/ HTTP/1.1" 200 3953
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "POST /cart/add/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 3953
+INFO "GET /user/login/ HTTP/1.1" 200 3953
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1718
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 3953
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4060
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1719
+INFO "GET /user/login/ HTTP/1.1" 200 4060
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/verifycode/?0.9306229563328324 HTTP/1.1" 200 1814
+INFO "GET /user/verifycode/?0.11708166954734678 HTTP/1.1" 200 1659
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1655
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1747
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1698
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1817
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1684
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /user/login/ HTTP/1.1" 200 4056
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1886
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4056
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1688
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1742
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1654
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1870
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1575
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1719
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1617
+INFO "GET /static/images/login_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22950
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1447
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1593
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1755
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1768
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4000
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1719
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/verifycode/?0.2904091458244843 HTTP/1.1" 200 1894
+INFO "GET /user/verifycode/?0.8157273459942043 HTTP/1.1" 200 1447
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1697
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /user/verifycode/?0.2576530373123923 HTTP/1.1" 200 1794
+INFO "GET /user/verifycode/?0.4753740860424083 HTTP/1.1" 200 1841
+INFO "GET /user/verifycode/?0.021192829384386713 HTTP/1.1" 200 1691
+INFO "GET /user/verifycode/?0.7936717001299343 HTTP/1.1" 200 1614
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1658
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1825
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1631
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1673
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/verifycode/?0.3182981852830703 HTTP/1.1" 200 1695
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1780
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3068
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3075
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1774
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /user/login/ HTTP/1.1" 200 4035
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1445
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1573
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 42, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+NameError: name 'send_mail' is not defined
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 42, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+NameError: name 'send_mail' is not defined
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 81119
+INFO "POST /user/register_handle/ HTTP/1.1" 200 2778
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "POST /user/register_handle/ HTTP/1.1" 200 2778
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 42, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 42, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 114921
+INFO "POST /user/register_handle/ HTTP/1.1" 200 2778
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 42, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 42, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 114951
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+ERROR Internal Server Error: /books/1/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/books/views.py", line 50, in detail
+    con = get_redis_connection('default')
+NameError: name 'get_redis_connection' is not defined
+ERROR Internal Server Error: /books/1/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/books/views.py", line 50, in detail
+    con = get_redis_connection('default')
+NameError: name 'get_redis_connection' is not defined
+ERROR "GET /books/1/ HTTP/1.1" 500 78744
+INFO "GET /books/1/ HTTP/1.1" 200 7899
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/down.png HTTP/1.1" 200 1064
+INFO "POST /cart/add/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 9251
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 9251
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/place/ HTTP/1.1" 200 5684
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+INFO "POST /order/commit/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8377
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO "POST /order/pay/ HTTP/1.1" 200 60
+INFO "POST /order/pay/ HTTP/1.1" 200 803
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18683
+INFO "POST /order/pay/ HTTP/1.1" 200 799
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18683
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /books/21/ HTTP/1.1" 200 7923
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+ERROR Internal Server Error: /user/user/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 95, in user
+    con = get_redis_connection('default')
+NameError: name 'get_redis_connection' is not defined
+ERROR Internal Server Error: /user/user/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 95, in user
+    con = get_redis_connection('default')
+NameError: name 'get_redis_connection' is not defined
+ERROR "GET /user/user/ HTTP/1.1" 500 82136
+ERROR Internal Server Error: /user/user/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 106, in user
+    books = Books.objects.get_books_by_id(books_id=id)
+NameError: name 'Books' is not defined
+ERROR Internal Server Error: /user/user/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 106, in user
+    books = Books.objects.get_books_by_id(books_id=id)
+NameError: name 'Books' is not defined
+ERROR "GET /user/user/ HTTP/1.1" 500 83213
+ERROR Internal Server Error: /user/user/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 507, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 111, in user
+    'books_li': books_li})
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader_tags.py", line 312, in do_extends
+    nodelist = parser.parse()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader_tags.py", line 255, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/defaulttags.py", line 827, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 509, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 565, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 35: 'static', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+ERROR Internal Server Error: /user/user/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 507, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 111, in user
+    'books_li': books_li})
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader_tags.py", line 312, in do_extends
+    nodelist = parser.parse()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/loader_tags.py", line 255, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/defaulttags.py", line 827, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 509, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/template/base.py", line 565, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 35: 'static', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+ERROR "GET /user/user/ HTTP/1.1" 500 198038
+INFO "GET /user/user/ HTTP/1.1" 200 4581
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8377
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/address/ HTTP/1.1" 200 3901
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8377
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/address/ HTTP/1.1" 200 3901
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8377
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 4581
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/address/ HTTP/1.1" 200 3901
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8377
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 4581
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8377
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/pay/ HTTP/1.1" 200 797
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18683
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12627
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /books/1/ HTTP/1.1" 200 7899
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /cart/add/ HTTP/1.1" 200 60
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET / HTTP/1.1" 200 12627
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET / HTTP/1.1" 200 12627
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET / HTTP/1.1" 200 12627
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET / HTTP/1.1" 200 12627
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /cart/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1751
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET / HTTP/1.1" 200 12627
+INFO "GET /cart/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1875
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/user/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1791
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/order/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1839
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/user/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1547
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12627
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 4579
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO "GET /cart/ HTTP/1.1" 200 8596
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/pay/ HTTP/1.1" 200 791
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18679
+INFO "GET /user/user/ HTTP/1.1" 200 4579
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 8596
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 4579
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/address/ HTTP/1.1" 200 3900
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 4579
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/address/ HTTP/1.1" 200 3900
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 4579
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /books/1/ HTTP/1.1" 200 7898
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/down.png HTTP/1.1" 200 1064
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /books/11/ HTTP/1.1" 200 7879
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 5165
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /books/8/ HTTP/1.1" 200 7916
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 5769
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /books/10/ HTTP/1.1" 200 7897
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 8596
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/pay/ HTTP/1.1" 200 795
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18679
+INFO "POST /order/pay/ HTTP/1.1" 200 803
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18679
+INFO "POST /order/pay/ HTTP/1.1" 200 789
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18679
+INFO "GET /search/?q= HTTP/1.1" 200 2857
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1646
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1734
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "GET /user/verifycode/?0.49035378195459933 HTTP/1.1" 200 1723
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /books/1/ HTTP/1.1" 200 7898
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO "POST /user/register_handle/ HTTP/1.1" 200 2778
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 111, in send_messages
+    sent = self._send(message)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 127, in _send
+    self.connection.sendmail(from_email, recipients, message.as_bytes(linesep='\r\n'))
+  File "/usr/lib/python3.5/smtplib.py", line 862, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (553, b'Mail from must equal authorized user', '1y03171629@163.com')
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 111, in send_messages
+    sent = self._send(message)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 127, in _send
+    self.connection.sendmail(from_email, recipients, message.as_bytes(linesep='\r\n'))
+  File "/usr/lib/python3.5/smtplib.py", line 862, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (553, b'Mail from must equal authorized user', '1y03171629@163.com')
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 105997
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 114900
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1697
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/user/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1445
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/cache.py", line 33, in _decorator
+    return method(self, *args, **kwargs)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/cache.py", line 82, in get
+    client=client)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/client/default.py", line 203, in get
+    raise ConnectionInterrupted(connection=client, parent=e)
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/utils/decorators.py", line 141, in _wrapped_view
+    result = middleware.process_request(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/middleware/cache.py", line 133, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, 'GET', cache=self.cache)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/utils/cache.py", line 362, in get_cache_key
+    headerlist = cache.get(cache_key)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/cache.py", line 40, in _decorator
+    raise e.parent
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/client/default.py", line 201, in get
+    value = client.get(key)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/client.py", line 976, in get
+    return self.execute_command('GET', name)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/cache.py", line 33, in _decorator
+    return method(self, *args, **kwargs)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/cache.py", line 82, in get
+    client=client)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/client/default.py", line 203, in get
+    raise ConnectionInterrupted(connection=client, parent=e)
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/utils/decorators.py", line 141, in _wrapped_view
+    result = middleware.process_request(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/middleware/cache.py", line 133, in process_request
+    cache_key = get_cache_key(request, self.key_prefix, 'GET', cache=self.cache)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/utils/cache.py", line 362, in get_cache_key
+    headerlist = cache.get(cache_key)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/cache.py", line 40, in _decorator
+    raise e.parent
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django_redis/client/default.py", line 201, in get
+    value = client.get(key)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/client.py", line 976, in get
+    return self.execute_command('GET', name)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/client.py", line 673, in execute_command
+    connection.send_command(*args)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/connection.py", line 610, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/connection.py", line 585, in send_packed_command
+    self.connect()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/redis/connection.py", line 489, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+ERROR "GET / HTTP/1.1" 500 129938
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /books/23/ HTTP/1.1" 200 7892
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/icons.png HTTP/1.1" 304 0
+INFO "GET /static/images/down.png HTTP/1.1" 200 1064
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /cart/add/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 9245
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/ HTTP/1.1" 200 9245
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/place/ HTTP/1.1" 200 5677
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /order/commit/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /order/pay/ HTTP/1.1" 200 799
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18578
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 8192
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 8192
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 8192
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /user/user/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1892
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/verifycode/?0.15249024999450278 HTTP/1.1" 200 1966
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /books/2/ HTTP/1.1" 200 7904
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /static/images/down.png HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/ HTTP/1.1" 200 8596
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/address/ HTTP/1.1" 200 3900
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/ HTTP/1.1" 200 8596
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/ HTTP/1.1" 200 8596
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6361
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/user/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1660
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /cart/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1698
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/order/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1730
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /books/4/ HTTP/1.1" 200 7903
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /books/12/ HTTP/1.1" 200 7929
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /cart/add/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /books/11/ HTTP/1.1" 200 7872
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1570
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /books/4/ HTTP/1.1" 200 7910
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book003.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book001.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book004.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book006.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book002.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book005.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/icons.png HTTP/1.1" 304 0
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/books/book007.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/books/book017.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book018.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book019.jpg HTTP/1.1" 304 0
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book022.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book023.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book021.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book020.jpg HTTP/1.1" 304 0
+INFO "GET /static/books/book024.jpg HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12619
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1832
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "GET /user/verifycode/?0.48708216129572657 HTTP/1.1" 200 1565
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12626
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/order/ HTTP/1.1" 200 8376
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /order/pay/ HTTP/1.1" 200 793
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18578
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /admin/ HTTP/1.1" 302 0
+INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1648
+INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+INFO "GET /user/order/ HTTP/1.1" 200 8469
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /search/?q=python HTTP/1.1" 200 2962
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12712
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/register_banner.png HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://192.168.43.241:8000/user/active/%s/">http://192.168.43.241:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 114532
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /user/register_handle/ HTTP/1.1" 200 2778
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 71, in open
+    self.connection.login(force_str(self.username), force_str(self.password))
+  File "/usr/lib/python3.5/smtplib.py", line 729, in login
+    raise last_exception
+  File "/usr/lib/python3.5/smtplib.py", line 720, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.5/smtplib.py", line 641, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 114503
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /user/register_handle/ HTTP/1.1" 200 2778
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 120360
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12712
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/login/ HTTP/1.1" 200 4053
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 120359
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/register HTTP/1.1" 301 0
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 120386
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 304 0
+INFO "GET /static/js/slide.js HTTP/1.1" 304 0
+INFO "GET /static/images/logo.png HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO "GET /static/images/icons02.png HTTP/1.1" 304 0
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 120372
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO "POST /user/register_handle/ HTTP/1.1" 200 2776
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR Internal Server Error: /user/register_handle/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/users/views.py", line 43, in register_handle
+    send_mail('书城用户激活', '', settings.EMAIL_FROM, [email], html_message='<a href="http://127.0.0.1:8000/user/active/%s/">http://127.0.0.1:8000/user/active/</a>' % token)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/__init__.py", line 62, in send_mail
+    return mail.send()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/message.py", line 348, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 104, in send_messages
+    new_conn_created = self.open()
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/mail/backends/smtp.py", line 64, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "/usr/lib/python3.5/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.5/smtplib.py", line 335, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.5/smtplib.py", line 306, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+ERROR "POST /user/register_handle/ HTTP/1.1" 500 120352
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3070
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12712
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO "GET /static/css/main.css HTTP/1.1" 200 22952
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+INFO "GET /static/images/logo.png HTTP/1.1" 200 15796
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 78511
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 447014
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 49384
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 42152
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 181109
+INFO "GET /static/books/book003.jpg HTTP/1.1" 200 8328
+INFO "GET /static/images/banner01.jpg HTTP/1.1" 200 39415
+INFO "GET /static/books/book001.jpg HTTP/1.1" 200 9350
+INFO "GET /static/images/banner02.jpg HTTP/1.1" 200 14224
+INFO "GET /static/books/book002.jpg HTTP/1.1" 200 7573
+INFO "GET /static/books/book004.jpg HTTP/1.1" 200 8758
+INFO "GET /static/books/book006.jpg HTTP/1.1" 200 7245
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/books/book007.jpg HTTP/1.1" 200 7203
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 300169
+INFO "GET /static/books/book008.jpg HTTP/1.1" 200 8746
+INFO "GET /static/images/banner03.jpg HTTP/1.1" 200 5569
+INFO "GET /static/books/book005.jpg HTTP/1.1" 200 9550
+INFO "GET /static/books/book009.jpg HTTP/1.1" 200 7448
+INFO "GET /static/books/book010.jpg HTTP/1.1" 200 8488
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /static/books/book012.jpg HTTP/1.1" 200 5693
+INFO "GET /static/images/banner04.jpg HTTP/1.1" 200 14876
+INFO "GET /static/books/book011.jpg HTTP/1.1" 200 6396
+INFO "GET /static/books/book013.jpg HTTP/1.1" 200 4606
+INFO "GET /static/books/book014.jpg HTTP/1.1" 200 6231
+INFO "GET /static/books/book015.jpg HTTP/1.1" 200 4155
+INFO "GET /static/books/book017.jpg HTTP/1.1" 200 9624
+INFO "GET /static/books/book018.jpg HTTP/1.1" 200 9242
+INFO "GET /static/books/book019.jpg HTTP/1.1" 200 7361
+INFO "GET /static/images/banner05.jpg HTTP/1.1" 200 17903
+INFO "GET /static/books/book020.jpg HTTP/1.1" 200 8543
+INFO "GET /static/books/book016.jpg HTTP/1.1" 200 8751
+INFO "GET /static/books/book022.jpg HTTP/1.1" 200 7614
+INFO "GET /static/books/book023.jpg HTTP/1.1" 200 6700
+INFO "GET /static/images/banner06.jpg HTTP/1.1" 200 10206
+INFO "GET /static/books/book021.jpg HTTP/1.1" 200 9511
+INFO "GET /static/books/book024.jpg HTTP/1.1" 200 5418
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3074
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO "POST /user/register_handle/ HTTP/1.1" 302 0
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12712
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 26039
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1794
+INFO "GET /user/login/ HTTP/1.1" 200 4036
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "GET /user/verifycode/?0.8320133179538918 HTTP/1.1" 200 1716
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12720
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /books/4/ HTTP/1.1" 200 8004
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/down.png HTTP/1.1" 200 1064
+INFO "POST /cart/add/ HTTP/1.1" 200 60
+INFO "GET /user/order/ HTTP/1.1" 200 8470
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO "POST /order/pay/ HTTP/1.1" 200 783
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18672
+INFO "POST /order/pay/ HTTP/1.1" 200 793
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR Internal Server Error: /order/check_pay/
+Traceback (most recent call last):
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+    response = self._get_response(request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/zxl/bookstore/utils/decorators.py", line 7, in wrapper
+    return view_func(request,*view_args,**view_kwargs)
+  File "/home/zxl/bookstore/orders/views.py", line 180, in check_pay
+    result = alipay.api_alipay_trade_query(order_id)
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 297, in api_alipay_trade_query
+    return self._verify_and_return_sync_response(raw_string, "alipay_trade_query_response")
+  File "/home/zxl/Envs/bookstore/lib/python3.5/site-packages/alipay/__init__.py", line 556, in _verify_and_return_sync_response
+    raise AliPayValidationError
+alipay.exceptions.AliPayValidationError
+ERROR "POST /order/check_pay/ HTTP/1.1" 500 18672
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12720
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /search/?q=%E6%89%93 HTTP/1.1" 200 2957
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12712
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1780
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12720
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6451
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 8690
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 8470
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 8690
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/user/ HTTP/1.1" 200 6451
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12712
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/register/ HTTP/1.1" 200 2757
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1860
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4054
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "POST /user/login_check/ HTTP/1.1" 200 10
+INFO "GET /user/verifycode/?0.759053642751933 HTTP/1.1" 200 1989
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12720
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /search/?q=%E7%AE%97%E6%B3%95 HTTP/1.1" 200 3469
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 12720
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''
+INFO b''

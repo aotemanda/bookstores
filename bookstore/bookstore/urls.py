@@ -23,4 +23,6 @@ urlpatterns = [
     url(r'^',include('books.urls',namespace='books')),
     url(r'^cart/',include('carts.urls',namespace='cart')),
     url(r'^order/',include('orders.urls',namespace='order')),
+
+    url(r'^search/', include('haystack.urls')),
 ]

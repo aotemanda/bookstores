@@ -5,6 +5,8 @@
     {% block cart_count %}{% endblock %}
 {% endblock %}
 {% block search_bar %}{% endblock %}
+{% block header_con %}{% endblock %}
+
 {% block body %}
 
 <div class="register_con">
@@ -17,7 +19,7 @@
 		<div class="r_con fr">
 			<div class="reg_title clearfix">
 				<h1>用户注册</h1>
-				<a href="#">登录</a>
+				<a href="{% url 'user:login'%}">登录</a>
 			</div>
 			<div class="reg_form clearfix">
 				<form method='post' action='/user/register_handle/'>

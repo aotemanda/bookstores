@@ -7,13 +7,16 @@ from books.models import Books
 from django_redis import get_redis_connection
 from datetime import datetime
 from django.conf import settings
+from orders.models import OrderInfo,OrderGoods
 import os
 import time
 from django.db import transaction
+from alipay import AliPay
+from bookstore import settings
 
 @login_required
 def order_place(request):
-    books_ids = request.POST.getlist('books_ids')
+    books_ids = request.POST.getlist('books_id')
     if not all(books_ids):
         return redirect(reverse('cart:show'))
     passport_id = request.session.get('passport_id')
@@ -24,17 +27,17 @@ def order_place(request):
     conn = get_redis_connection('default')
     cart_key = 'cart_%d'%passport_id
     
-    for id in books_ids:
-        books = Books.objects.get_books_by_id(books_id=id)
-        count = conn.hget(cart_key,id)
+    for books_id in books_ids:
+        books = Books.objects.get_books_by_id(books_id=books_id)
+        count = conn.hget(cart_key,books_id)
         books.count = count
-        amount = int(count)*books_price
+        amount = int(count)*books.price
         books.amount = amount
         books_li.append(books)
         total_count += int(count)
         total_price += books.amount
     transit_price = 10
-    total_price = total_price + transit_price
+    total_pay = total_price + transit_price
     books_ids = ','.join(books_ids)
     context = {
         'addr':addr,
@@ -45,7 +48,7 @@ def order_place(request):
         'total_pay':total_pay,
         'books_ids':books_ids,
     }
-    return render(request,'order/place_order.html',context)
+    return render(request,'orders/place_order.html',context)
 
 @transaction.atomic
 def order_commit(request):
@@ -54,14 +57,13 @@ def order_commit(request):
     addr_id = request.POST.get('addr_id')
     pay_method = request.POST.get('pay_method')
     books_ids = request.POST.get('books_ids')
-
     if not all([addr_id,pay_method,books_ids]):
         return JsonResponse({'res':1,'errmsg':'数据不完整'})
     try:
-        addr = Address.object.get(id=addr_id)
-    except EXception as e:
+        addr = Address.objects.get(id=int(addr_id))
+    except Exception as e:
         return JsonResponse({'res':2,'errmsg':'地址信息错误'})
-    if int(pay_method) not in OrderInfo.PAY_METHODS_ENUM.valules():
+    if int(pay_method) not in OrderInfo.PAY_METHODS_ENUM.values():
         return JsonResponse({'res':3,'errmsg':'不支持的支付方式'})
 
     passport_id = request.session.get('passport_id')
@@ -71,7 +73,7 @@ def order_commit(request):
     total_price = 0
     sid = transaction.savepoint()
     try:
-        order = OrderInfo.object.create(
+        order = OrderInfo.objects.create(
                             order_id=order_id,
                             passport_id=passport_id,
                             addr_id=addr_id,
@@ -79,10 +81,9 @@ def order_commit(request):
                             transit_price=transit_price,
                             total_price=total_price,
                             pay_method=pay_method)
-
         books_ids = books_ids.split(',')
         conn = get_redis_connection('default')
-        cart_key = 'cart_%id'%passport_id
+        cart_key = 'cart_%d' % passport_id
         for id in books_ids:
             books = Books.objects.get_books_by_id(books_id=id)
             if books is None:
@@ -112,4 +113,89 @@ def order_commit(request):
     conn.hdel(cart_key,*books_ids)
     transaction.savepoint_commit(sid)
     return JsonResponse({'res':6})
-                            
+                        
+@login_required
+def order_pay(request):
+    print(request.POST)
+    order_id = request.POST.get('order_id')
+    print(order_id)
+    if not order_id:
+        return JsonResponse({'res':1,'errmsg':'订单不存在'})
+    try:
+        order = OrderInfo.objects.get(order_id=order_id,
+                                        status=1,
+                                        pay_method=3)
+    except OrderInfo.DoesNotExist:
+        return JsonResponse({'res':2,'errmsg':'订单信息出错'})
+    app_private_key_path = os.path.join(settings.BASE_DIR,'orders/app_private_key.pem')
+    alipay_public_key_path = os.path.join(settings.BASE_DIR,'orders/app_private_key.pem')
+    app_private_key_string = open(app_private_key_path).read()
+    alipay_public_key_string = open(alipay_public_key_path).read()
+    alipay = AliPay(
+        appid='2016092000554919',
+        app_notify_url=None,
+        app_private_key_string=app_private_key_string,
+        alipay_public_key_string=alipay_public_key_string,
+        sign_type = 'RSA2',
+        debug = True,
+    )
+    total_pay = order.total_price + order.transit_price
+    order_string = alipay.api_alipay_trade_page_pay(
+        out_trade_no=order_id,
+        total_amount=str(total_pay),
+        subject='书城%s'%order_id,
+        return_url=None,
+        notify_url=None
+    )
+    pay_url = settings.ALIPAY_URL + '?' + order_string
+    return JsonResponse({'res':3,'pay_url':pay_url,'message':'OK'})
+
+
+@login_required
+def check_pay(request):
+    passport_id = request.session.get('passport_id')
+    order_id = request.POST.get('order_id')
+    if not order_id:
+        return JsonResponse({'res':1,'errmsg':'订单不存在'})
+    try:
+        order = OrderInfo.objects.get(order_id=order_id,
+                                    passport_id=passport_id,
+                                    pay_method=3)
+    except OrderInfo.DoesNotExist:
+        return JsonResponse({'res':2,'errmsg':'订单信息出错'})
+    app_private_key_path = os.path.join(settings.BASE_DIR,'orders/app_private_key.pem')
+    alipay_public_key_path = os.path.join(settings.BASE_DIR,'orders/app_private_key.pem')
+    app_private_key_string = open(app_private_key_path).read()
+    alipay_public_key_string = open(alipay_public_key_path).read()
+    alipay = AliPay(
+        appid='2016092000554919',
+        app_notify_url=None,
+        app_private_key_string=app_private_key_string,
+        alipay_public_key_string=alipay_public_key_string,
+        sign_type='RSA2',
+        debug = True,
+    )
+
+    while True:
+        result = alipay.api_alipay_trade_query(order_id)
+        code = result.get('code')
+        if code == '10000' and result.get('trade_status') == 'TRADE_SUCCESS':
+            order.status = 2
+            order.trade_id = result.get('trade_no')
+            order.save()
+            return JsonResponse({'res':3,'message':'支付成功'})
+        elif code == '40004' or (code == '10000' and result.get('trade_status') == 'WAIT_BUYER_PAY'):
+            time.sleep(5)
+            continue
+        else:
+            return JsonResponse({'res':4,'errmsg':'支付出错'})
+
+
+
+
+
+
+
+
+
+   

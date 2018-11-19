@@ -21,6 +21,7 @@ def cart_add(request):
     except Exception as e:
         return JsonResponse({'res':3,'errmsg':'商品数量必须为数字'})
     conn = get_redis_connection('default')
+    cart_key = 'cart_%d'%request.session.get('passport_id')
     res = conn.hget(cart_key,books_id)
     if res is None:
         res = count
@@ -35,7 +36,7 @@ def cart_add(request):
 @login_required
 def cart_count(request):
     conn = get_redis_connection('default')
-    cart_key = 'cart_%d' % request,session.get('passport_id')
+    cart_key = 'cart_%d' % request.session.get('passport_id')
     res = 0
     res_list = conn.hvals(cart_key)
     for i in res_list:
@@ -46,7 +47,8 @@ def cart_count(request):
 def cart_show(request):
     passport_id = request.session.get('passport_id')
     conn = get_redis_connection('default')
-    cart_key = conn.hgetall(cart_key)
+    cart_key = 'cart_%d'%passport_id
+    res_dict = conn.hgetall(cart_key)
     books_li = []
     total_count = 0
     total_price = 0
@@ -62,13 +64,14 @@ def cart_show(request):
         'total_count':total_count,
         'total_price':total_price,
     }
-    return render(request,'cart/cart.html',context)
+    return render(request,'carts/cart.html',context)
 
 @login_required
 def cart_del(request):
     books_id = request.POST.get('books_id')
     if not all([books_id]):
         return JsonResponse({'res':1,'errmsg':'数据不完整'})
+    books = Books.objects.get_books_by_id(books_id=books_id)
     if books is None:
         return JsonResponse({'res':2,'errmsg':'商品不存在'})
     conn = get_redis_connection('default')

@@ -5,10 +5,18 @@ from utils.get_hash import get_hash
 # Create your models here.
 
 class PassportManager(models.Manager):
+    def check_passport(self, username):
+        try:
+            passport = self.get(username=username)
+        except self.model.DoesNotExist:
+            passport = None
+        if passport:
+            return True
+        return False
+
+        
     def add_one_passport(self, username, password, email):
-        '''添加一个账户信息'''
         passport = self.create(username=username, password=get_hash(password), email=email)
-        # 3.返回passport
         return passport
 
     def get_one_passport(self, username, password):
@@ -24,10 +32,10 @@ class AddressManager(models.Manager):
     def get_default_address(self,passport_id):
         try:
             addr = self.get(passport_id=passport_id,is_default=True)
-        except self.models.DoesNotExist:
+        except self.model.DoesNotExist:
             addr = None
         return addr
-    def add_one_address(self,passport_id,recipient_name,recipient_addr,recipient_phone):
+    def add_one_address(self,passport_id,zip_code,recipient_name,recipient_addr,recipient_phone):
         addr = self.get_default_address(passport_id=passport_id)
         if addr:
             is_default=False

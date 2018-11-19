@@ -9,15 +9,14 @@
 	<script type="text/javascript" src="{% static 'js/jquery-1.12.4.min.js' %}"></script>
 	<script type="text/javascript" src="{% static 'js/jquery-ui.min.js' %}"></script>
 	<script type="text/javascript" src="{% static 'js/slide.js' %}"></script>
-    {% block topfiles %}
-    {% endblock %}
-{% block cart_count %}
-<script>
-    $.get('/cart/count/',function(data){
-        $('#show_count').html(data.res)
-    })
 
-</script>
+{% block topfiles %}{% endblock %}
+{% block cart_count %}
+    <script>
+        $.get('/cart/count/',function(data){
+            $('#show_count').html(data.res)
+        })
+    </script>
 {% endblock %}
 </head>
 <body>
@@ -27,9 +26,9 @@
 			<div class="welcome fl">欢迎来到尚硅谷书城!</div>
 			<div class="fr">
                 {% if request.session.islogin %}
-				<div class="login_info fl">
+				<div class="fl" style="padding-top: 7px;">
 					欢迎您：<em>{{ request.session.username }}</em>
-                    <a href="{% url 'user:logout' %}">登录</a>
+                    <a href="{% url 'user:logout' %}">退出</a>
 				</div>
                 {% else %}
 				<div class="login_btn fl">
@@ -40,11 +39,11 @@
                 {% endif %}
 				<div class="user_link fl">
 					<span>|</span>
-					<a href="user_center_info.html">用户中心</a>
+					<a href="{% url 'user:user' %}">用户中心</a>
 					<span>|</span>
 					<a href="{% url 'cart:show' %}">我的购物车</a>
 					<span>|</span>
-					<a href="user_center_order.html">我的订单</a>
+					<a href="{% url 'user:order' %}">我的订单</a>
 				</div>
 			</div>
 		</div>		
@@ -53,10 +52,13 @@
     {% block search_bar %}
 	<div class="search_bar clearfix">
 		<a href="{% url 'books:index' %}" class="logo fl"><img src="{% static 'images/logo.png' %}" style="width: 160px; height: 53px;"></a>
-		<div class="search_con fl">
-			<input type="text" class="input_text fl" name="" placeholder="搜索商品">
-			<input type="button" class="input_btn fr" name="" value="搜索">
-		</div>
+        <div class='search_con fl'>
+            <form method='get' action="/search/" target="_blank">
+                <input type="text" class="input_text fl" name="q" palceholder="搜索商品">
+                <input type="submit" class="input_btn fr" value="查询">
+            </form>		
+        </div>
+
 		<div class="guest_cart fr">
 			<a href="{% url 'cart:show' %}" class="cart_name fl">我的购物车</a>
 			<div class="book_count fl" id="show_count">1</div>
